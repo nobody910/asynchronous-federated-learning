@@ -1,14 +1,17 @@
 # asynchronous-federated-learning
+
 This is the repository for the work "An asynchronous aggregation mechanism with normalized temporal and informative weights and optimized interaction patterns"
 
 
 ##requirements
+
 python
 tensorflow
 keras
 
 
 ##run
+
 1.[Generate Local Data Sets-LN.py]
  >>>Generate non-IID data set saved in [non-iid_data_mnist_range5_label].
 
@@ -38,4 +41,5 @@ keras
 
 
 ##results
+
 ![image](https://user-images.githubusercontent.com/73324626/120967236-d60c8300-c799-11eb-96f9-b6f7a2c76b86.png)
