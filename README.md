@@ -35,3 +35,7 @@ keras
 
 9.[MLU+TWF+IWE-IE.py] [MLU+TWF+IWE-LN.py]
 >>>Employ MLU+TWF+IWE.
+
+
+##results
+![image](https://user-images.githubusercontent.com/73324626/120967236-d60c8300-c799-11eb-96f9-b6f7a2c76b86.png)
